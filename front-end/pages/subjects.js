@@ -1,0 +1,1 @@
+// FETCH all subjects and display them on your site by manipulating the DOM

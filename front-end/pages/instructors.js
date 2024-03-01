@@ -1,0 +1,1 @@
+// FETCH all instructors and display them on your site by manipulating the DOM

@@ -1,0 +1,14 @@
+id,title,difficulty_level,description
+1,Python,3,High-level programming language known for its readability and versatility.
+2,Javascript,2,Scripting language commonly used for web development.
+3,OOP,4,Object-Oriented Programming paradigm for structuring code.
+4,Data Structures,3,Study of organizing and storing data for efficient retrieval and manipulation.
+5,HTML,1,Markup language used for creating the structure of web pages.
+6,CSS,2,Style sheet language for enhancing the presentation of web pages.
+7,React,3,JavaScript library for building user interfaces, particularly for single-page applications.
+8,SQL,3,Structured Query Language for managing and manipulating relational databases.
+9,Django,4,High-level Python web framework for rapid development and clean, pragmatic design.
+10,Flask,2,Lightweight web framework in Python for building web applications.
+11,PostgreSQL,3,Powerful open-source relational database management system.
+12,AWS EC2,4,Elastic Compute Cloud for scalable and resizable compute capacity.
+13,Route53,2,Amazon's scalable and highly available Domain Name System (DNS) web service.
